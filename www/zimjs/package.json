@@ -1,0 +1,73 @@
+{
+  "_from": "zimjs",
+  "_id": "zimjs@10.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-BzdxwuQY9IpaupjfhI26Mnijx57rGr2W2KZrg13luSV/g9jyt2PSjtRCvNi/kwm54fFF2PD6YuDd4UX2GPqQKg==",
+  "_location": "/zimjs",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "zimjs",
+    "name": "zimjs",
+    "escapedName": "zimjs",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/zimjs/-/zimjs-10.0.2.tgz",
+  "_shasum": "be0e831e7c7022ffb91295c24f10759200ffb108",
+  "_spec": "zimjs",
+  "_where": "D:\\sem 2\\ZimJs\\Week 10\\Pop Quiz",
+  "author": {
+    "name": "Dan Zen"
+  },
+  "bugs": {
+    "url": "https://github.com/danzen/zimjs/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@danzen/createjs": ">=1.0.2"
+  },
+  "deprecated": false,
+  "description": "ZIM at https://zimjs.com is a JavaScript Canvas Framework that provides conveniences, components and controls powered by CreateJS.  ZIM is great for making art, games, puzzles, e-learning apps, etc. The Framework is creative, colorful, concise, consistent and complete - with super docs and examples - great for learners right on up to professionals.",
+  "homepage": "https://github.com/danzen/zimjs#readme",
+  "keywords": [
+    "ZIM",
+    "ZIMjs",
+    "Canvas",
+    "Components",
+    "Controls",
+    "Conveniences",
+    "CreateJS",
+    "EaselJS",
+    "Generative Art",
+    "Data Visualization",
+    "Games",
+    "Puzzles",
+    "InfoActives",
+    "Interactive Logos",
+    "Interactive Infographics",
+    "Apps",
+    "Mobile Apps",
+    "Interactive Ads",
+    "UI UX",
+    "Learn Coding",
+    "Teach Coding"
+  ],
+  "license": "ISC",
+  "main": "zim.js",
+  "name": "zimjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danzen/zimjs.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "10.0.2"
+}

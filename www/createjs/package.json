@@ -1,0 +1,47 @@
+{
+  "_from": "@danzen/createjs@>=1.0.2",
+  "_id": "@danzen/createjs@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-HbDIpYtTFI3b/8O9yaBpbcOVcYv4A5A+bok7j4AVNMtkqcRbprowSwL41rIOBfpKkjLGyaswN1xu7kyjvK9UBA==",
+  "_location": "/@danzen/createjs",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@danzen/createjs@>=1.0.2",
+    "name": "@danzen/createjs",
+    "escapedName": "@danzen%2fcreatejs",
+    "scope": "@danzen",
+    "rawSpec": ">=1.0.2",
+    "saveSpec": null,
+    "fetchSpec": ">=1.0.2"
+  },
+  "_requiredBy": [
+    "/zimjs"
+  ],
+  "_resolved": "https://registry.npmjs.org/@danzen/createjs/-/createjs-1.0.2.tgz",
+  "_shasum": "cdd6970a438816ed9bb1256b70a9ab38baec182d",
+  "_spec": "@danzen/createjs@>=1.0.2",
+  "_where": "D:\\sem 2\\node_modules\\zimjs",
+  "author": {
+    "name": "CreateJS Team - NPM Arranged by Dan Zen"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A version of CreateJS https://createjs.com that that provides a Bitmap Object Model (BOM) and events to run with ZIMjs the JavaScript Canvas Framework https://zimjs.com",
+  "keywords": [
+    "CreateJS",
+    "ZIMjs",
+    "Canvas",
+    "Bitmap Object Model",
+    "BOM",
+    "EaselJS"
+  ],
+  "license": "ISC",
+  "main": "create.js",
+  "name": "@danzen/createjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
